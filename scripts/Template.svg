@@ -219,9 +219,9 @@
 		  <span class="line">  • Public Instances  : <a href="https://dash.hypho.dev">https://dash.hypho.dev</a> 🌐</span>
 
 		  <span class="line cmd"><span class="prompt">root@hypho.dev</span>:<span class="path">~/docker</span>$ <span class="symbol">gh repo list --limit 3</span></span>
-		  <span class="line">hypho/core-tools            Public    Updated 2d ago 🥇</span>
-		  <span class="line">hypho/infrastructure        Public    Updated 5d ago 🥈</span>
-		  <span class="line">hypho/terminal-badges       Public    Updated 8d ago 🥉</span>
+		  <span class="line">{{REPO_1_NAME}}    {{REPO_1_VIS}}    Updated {{REPO_1_AGO}} 🥇</span>
+		  <span class="line">{{REPO_2_NAME}}    {{REPO_2_VIS}}    Updated {{REPO_2_AGO}} 🥈</span>
+		  <span class="line">{{REPO_3_NAME}}    {{REPO_3_VIS}}    Updated {{REPO_3_AGO}} 🥉</span>
 
 		  <span class="line cmd"><span class="prompt">root@hypho.dev</span>:<span class="path">~/docker</span>$ <span class="cursor" aria-hidden="true"></span></span>
 		</div>
