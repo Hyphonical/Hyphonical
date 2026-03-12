@@ -6,8 +6,8 @@ import requests
 from datetime import datetime, timezone
 
 GITHUB_USER = "Hyphonical"
-TEMPLATE = "Template.svg"
-OUTPUT = "Header.svg"
+TEMPLATE = "scripts/Template.svg"
+OUTPUT = "scripts/Header.svg"
 
 def time_ago(iso_timestamp: str) -> str:
 	"""Convert an ISO timestamp to a human-readable 'X ago' string."""
