@@ -220,8 +220,8 @@
 
 		  <span class="line cmd"><span class="prompt">root@hypho.dev</span>:<span class="path">~/docker</span>$ <span class="symbol">gh repo list --limit 3</span></span>
 		  <span class="line">Hyphonical/Hyphonical           Public        Updated 6h ago 🥇</span>
-		  <span class="line">Hyphonical/Blockadeer           Public        Updated 8h ago 🥈</span>
-		  <span class="line">Hyphonical/Roobu                Public        Updated 21h ago 🥉</span>
+		  <span class="line">Hyphonical/Blockadeer           Public        Updated 14h ago 🥈</span>
+		  <span class="line">Hyphonical/Roobu                Public        Updated 1d ago 🥉</span>
 
 		  <span class="line cmd"><span class="prompt">root@hypho.dev</span>:<span class="path">~/docker</span>$ <span class="cursor" aria-hidden="true"></span></span>
 		</div>
